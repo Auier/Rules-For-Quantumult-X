@@ -71,5 +71,5 @@ ip-cidr,74.125.0.0/16,Google
 # 国内部分修正
 host,safebrowsing.googleapis.com,DIRECT
 host-suffix,dl.google.com,DIRECT
-host-suffix,google.cn,Domestic
+host-suffix,google.cn,DIRECT
 host-suffix,mtalk.google.com,DIRECT
