@@ -6,4 +6,7 @@ host-suffix,twimg.co,Twitter
 host-suffix,twimg.com,Twitter
 host-suffix,twitpic.com,Twitter
 host-suffix,vine.co,Twitter
+host,api.twitter.com,Twitter
+host,caps.twitter.com,Twitter
+host,api-stream.twitter.com,Twitter
 host-keyword,twitter,Twitter
